@@ -87,9 +87,6 @@ sudo bash Run.sh
 - **HACK3RY2J**<br>
 [@] Mail At: HACK3RY2J@gmail.com
 
-- **Ninja**<br>
-[@] Check At: https://instagram.com/haoi_hackers_Academy_of_India/
-
 # CONTACT ME:
 
 Feel Free To Open An Issue...
@@ -100,5 +97,7 @@ Feel Free To Open An Issue...
 ```
 
 <a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-<a href="https://www.henryhacks.blogspot.com">Check Out Our Blog Page</a><br>
-<a href="https://t.me/itzAnonSMS">Check Out Our Telegram Discussion</a>
+<a href="https://t.me/itzAnonSMS">Check Out Our Telegram Discussion</a><br><br>
+
+
+<a href="https://www.buymeacoffee.com/HACK3RY2J"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=HACK3RY2J&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
